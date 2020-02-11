@@ -1,5 +1,5 @@
 #A very simple car game using while loop
-#
+#I hope its nice
 #Declear variable(s)
 command = ""
 started = False
