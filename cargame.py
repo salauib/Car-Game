@@ -21,6 +21,7 @@ while True:
         else:
             started = False
             print("Car stopped")
+            #How to play the car game
     elif command == "help":
         print("""
 start - to start the car
